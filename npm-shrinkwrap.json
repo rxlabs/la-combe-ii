@@ -3635,6 +3635,11 @@
       "from": "math-expression-evaluator@>=1.2.14 <2.0.0",
       "resolved": "https://registry.npmjs.org/math-expression-evaluator/-/math-expression-evaluator-1.2.14.tgz"
     },
+    "matter-js": {
+      "version": "0.10.0",
+      "from": "matter-js@latest",
+      "resolved": "https://registry.npmjs.org/matter-js/-/matter-js-0.10.0.tgz"
+    },
     "media-typer": {
       "version": "0.3.0",
       "from": "media-typer@0.3.0",

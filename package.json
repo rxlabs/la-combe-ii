@@ -48,6 +48,7 @@
     "node": "6.7.0"
   },
   "dependencies": {
+    "matter-js": "^0.10.0",
     "sanitize.css": "^4.1.0"
   },
   "devDependencies": {
