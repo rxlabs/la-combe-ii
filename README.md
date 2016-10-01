@@ -8,7 +8,7 @@
 
 > Built from [makenew/tasty-brunch](https://github.com/makenew/tasty-brunch).
 
-[![wercker status](https://app.wercker.com/status/da977a4ff69fde0e557244a0c12f8933/m "wercker status")](https://app.wercker.com/project/bykey/da977a4ff69fde0e557244a0c12f8933)
+[![wercker status](https://app.wercker.com/status/36edf188b12687286900c8f3305538c6/m/ "wercker status")](https://app.wercker.com/project/byKey/36edf188b12687286900c8f3305538c6)
 
 ## Description
 
