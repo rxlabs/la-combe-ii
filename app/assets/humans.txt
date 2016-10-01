@@ -3,7 +3,7 @@ Author: Evan Sosenko
 Email: razorx@evansosenko.com
 
 /* SITE */
-Source: https://github.com/makenew/tasty-brunch
+Source: https://github.com/rxlabs/la-combe-ii
 
 /* LIBRARIES */
 https://jonathantneal.github.io/sanitize.css/

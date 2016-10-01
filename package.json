@@ -1,14 +1,14 @@
 {
-  "name": "makenew-tasty-brunch",
-  "version": "3.0.0",
-  "description": "Tasty brunch app skeleton.",
+  "name": "la-combe-ii",
+  "version": "0.0.0",
+  "description": "Marble game based on La Combe by Ellsworth Kelly.",
   "private": true,
   "keywords": [
     "brunch"
   ],
-  "homepage": "https://github.com/makenew/tasty-brunch",
-  "bugs": "https://github.com/makenew/tasty-brunch/issues",
-  "repository": "makenew/tasty-brunch",
+  "homepage": "https://github.com/rxlabs/la-combe-ii",
+  "bugs": "https://github.com/rxlabs/la-combe-ii/issues",
+  "repository": "rxlabs/la-combe-ii",
   "license": "MIT",
   "author": {
     "name": "Evan Sosenko",

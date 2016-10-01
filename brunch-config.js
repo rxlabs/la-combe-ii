@@ -33,10 +33,10 @@ exports.config = {
             enableProcessor: true,
             helpers: {
               urlprefix () {
-                const url = process.env.DOMAIN || 'makenew.github.io'
+                const url = process.env.DOMAIN || 'rxlabs.github.io'
                 const baseurl = typeof process.env.BASEURL === 'string'
                   ? process.env.BASEURL
-                  : '/tasty-brunch'
+                  : '/la-combe-ii'
                 return `https://${url}${baseurl}`
               },
               join (context, block) {

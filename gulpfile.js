@@ -142,7 +142,7 @@ gulp.task('rev', () => {
     .pipe($.revAll.revision({
       prefix: typeof process.env.ASSET_PREFIX === 'string'
         ? process.env.ASSET_PREFIX
-        : '/tasty-brunch',
+        : '/la-combe-ii',
       dontRenameFile: dontRev,
       dontUpdateReference: dontRev
     }))
