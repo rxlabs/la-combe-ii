@@ -22,7 +22,8 @@ exports.config = {
   plugins: {
     postcss: {
       processors: [
-        require('autoprefixer')
+        require('postcss-import'),
+        require('postcss-cssnext')
       ]
     },
 
