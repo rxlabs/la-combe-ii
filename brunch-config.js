@@ -1,5 +1,8 @@
 exports.config = {
   npm: {
+    globals: {
+      decomp: 'poly-decomp'
+    },
     styles: {
       'sanitize.css': ['sanitize.css']
     }

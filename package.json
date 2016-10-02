@@ -49,6 +49,7 @@
   },
   "dependencies": {
     "matter-js": "^0.10.0",
+    "poly-decomp": "^0.1.0",
     "sanitize.css": "^4.1.0"
   },
   "devDependencies": {
