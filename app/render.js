@@ -1,12 +1,12 @@
 import { Render } from 'matter-js'
 
-export const createRender = ({element, engine}) => (
+export const createRender = ({element, engine, width}) => (
   Render.create({
     element,
     engine,
     options: {
-      width: 500,
-      height: 1000
+      width,
+      height: 2 * width
     }
   })
 )

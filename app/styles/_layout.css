@@ -2,3 +2,11 @@
   display: flex;
   justify-content: center;
 }
+
+.l-root {
+  height: 100vh;
+
+  & > canvas {
+    height: 100%;
+  }
+}
