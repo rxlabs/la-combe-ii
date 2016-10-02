@@ -17,23 +17,17 @@
   "scripts": {
     "brunch": "brunch",
     "gulp": "gulp",
-
     "test": "true",
-      "pretest": "gulp lint",
-
+    "pretest": "gulp lint",
     "build": "brunch build --production",
-      "prebuild": "gulp clean",
-      "postbuild": "gulp htmlhint",
-
+    "prebuild": "gulp clean",
+    "postbuild": "gulp htmlhint",
     "dist": "npm run build",
-      "predist": "npm test",
-      "postdist": "gulp optimize",
-
+    "predist": "npm test",
+    "postdist": "gulp optimize",
     "deploy": "gulp deploy",
-      "predeploy": "npm run dist",
-
+    "predeploy": "npm run dist",
     "format": "concurrently 'standard --fix' 'stylefmt -R app'",
-
     "start": "brunch watch --server",
     "watch": "gulp watch"
   },
@@ -49,6 +43,7 @@
   },
   "dependencies": {
     "matter-js": "^0.10.0",
+    "poly-decomp": "^0.1.0",
     "sanitize.css": "^4.1.0"
   },
   "devDependencies": {
