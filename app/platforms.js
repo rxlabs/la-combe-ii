@@ -10,7 +10,7 @@ const createVerticies = (points) => {
 
 export default (platforms) => {
   const vertices = platforms.map(createVerticies)
-  const bodies = Bodies.fromVertices(0, 0, vertices, {
+  const bodies = Bodies.fromVertices(250, 250, vertices, {
     isStatic: true
   })
   return bodies
